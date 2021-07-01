@@ -1,0 +1,2 @@
+First doc created by gitbash into personal repository.
+Name of repository has to be changed to java practice
