@@ -2,7 +2,7 @@
 public class ExampleOne {
 	
 	public static void main(String[] args) {
-		boolean on = true;
+		boolean on = false;
     
 		 do {
 			 
