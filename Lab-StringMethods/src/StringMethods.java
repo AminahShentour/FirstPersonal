@@ -6,7 +6,7 @@ public class StringMethods {
 		System.out.println(str.equals("Hello"));
 		
 		//use the length() method
-		//System.out.println(str.length()); 
+		System.out.println(str.length()); 
 		
 		//use of indexOf()
 		System.out.println(str.indexOf("o"));
