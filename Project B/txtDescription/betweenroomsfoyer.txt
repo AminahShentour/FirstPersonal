@@ -1,0 +1,4 @@
+You are standing at the end of the corridoor. 
+To the west there is a window.
+To the north is the main bedroom.
+To the south is the office.

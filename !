@@ -1,0 +1,46 @@
+Day 6 Labs 
+`# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	renamed:    UnitCinverter/.classpath -> Day 7/.classpath
+#	renamed:    UnitCinverter/.project -> Day 7/.project
+#	renamed:    UnitCinverter/.settings/org.eclipse.jdt.core.prefs -> Day 7/.settings/org.eclipse.jdt.core.prefs
+#	new file:   Day 7/bin/FunctionalInterface.class
+#	new file:   Day 7/bin/FuntionalInterface.class
+#	new file:   Day 7/src/FunctionalInterface.java
+#	new file:   Day 7/src/FuntionalInterface.java
+#	new file:   La-Recursion/.classpath
+#	new file:   La-Recursion/.project
+#	new file:   La-Recursion/.settings/org.eclipse.jdt.core.prefs
+#	new file:   La-Recursion/bin/ExampleOne.class
+#	new file:   La-Recursion/bin/Factorial.class
+#	new file:   La-Recursion/src/ExampleOne.java
+#	new file:   La-Recursion/src/Factorial.java
+#	new file:   Lab-AccessModifiers/.classpath
+#	new file:   Lab-AccessModifiers/.project
+#	new file:   Lab-AccessModifiers/.settings/org.eclipse.jdt.core.prefs
+#	new file:   Lab-AccessModifiers/bin/one/AccessModifiers.class
+#	new file:   Lab-AccessModifiers/bin/one/Person.class
+#	new file:   Lab-AccessModifiers/bin/one/ProtectedClass.class
+#	new file:   Lab-AccessModifiers/bin/two/ProtectedSubClass.class
+#	new file:   Lab-AccessModifiers/src/one/AccessModifiers.java
+#	new file:   Lab-AccessModifiers/src/one/Person.java
+#	new file:   Lab-AccessModifiers/src/one/ProtectedClass.java
+#	new file:   Lab-AccessModifiers/src/two/ProtectedSubClass.java
+#	new file:   Lab-Recursion/.classpath
+#	new file:   Lab-Recursion/.project
+#	new file:   Lab-Recursion/.settings/org.eclipse.jdt.core.prefs
+#	new file:   Lab-Recursion/bin/Fib.class
+#	new file:   Lab-Recursion/bin/TestFib.class
+#	new file:   Lab-Recursion/src/Fib.java
+#	new file:   Lab-Recursion/src/TestFib.java
+#	new file:   Lab-SearchAlgorithms/.classpath
+#	new file:   Lab-SearchAlgorithms/.project
+#	new file:   Lab-SearchAlgorithms/.settings/org.eclipse.jdt.core.prefs
+#	new file:   Lab-SearchAlgorithms/bin/LinearSearch.class
+#	new file:   Lab-SearchAlgorithms/src/LinearSearch.java
+#

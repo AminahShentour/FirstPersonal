@@ -1,0 +1,5 @@
+You are at the corridor. To the north is a washer and dryer.
+To the South is a bathroom.
+To the west is a path to the bedrooms
+and East is the kitchen.
+What would you like to do?
